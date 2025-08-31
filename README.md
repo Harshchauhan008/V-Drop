@@ -1,6 +1,6 @@
 # spotvibe
 
-A new Flutter project.
+Social media and Influncer marketing Platfrom.
 
 ## Getting Started
 
