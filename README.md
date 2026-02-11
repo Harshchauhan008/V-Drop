@@ -1,7 +1,7 @@
 # V-Drop
 
 Marketplace for brands and creator/business.
-apk soon provide.
+
 
 ## Getting Started
 
