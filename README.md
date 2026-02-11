@@ -1,6 +1,6 @@
-# spotvibe
+# V-Drop
 
-Social media and Influncer marketing Platfrom.
+Marketplace for brands and creator/business.
 
 ## Getting Started
 
